@@ -1,0 +1,11 @@
+{
+  "name": "seniors-full-sterk",
+  "private": true,
+  "version": "1.0.0",
+  "type": "commonjs",
+  "main": "Something.js",
+  "scripts": {
+    "start": "node Something.js",
+    "dev": "node Something.js"
+  }
+}
